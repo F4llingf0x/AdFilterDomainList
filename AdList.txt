@@ -1,2 +1,2 @@
-||&ab_channel=HankookTireGlobal
+&ab_channel=HankookTireGlobal|
 ||origo.hu
